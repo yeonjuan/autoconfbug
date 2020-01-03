@@ -1,9 +1,9 @@
 # autoconfbug
 
 ```
-git clone https://github.com/yeonjuan/autoconfbug.git
-
-eslint --init
+$ git clone https://github.com/yeonjuan/autoconfbug.git
+$ cd autoconfbug/
+$ eslint --init
 
 ? How would you like to use ESLint? To check syntax, find problems, and enforce code style
 ? What type of modules does your project use? JavaScript modules (import/export)
