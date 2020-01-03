@@ -1,0 +1,26 @@
+{
+  "name": "autoconfbug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeonjuan/autoconfbug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeonjuan/autoconfbug/issues"
+  },
+  "homepage": "https://github.com/yeonjuan/autoconfbug#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.14.0",
+    "@typescript-eslint/parser": "^2.14.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.17.0",
+    "typescript": "^3.7.4"
+  }
+}
