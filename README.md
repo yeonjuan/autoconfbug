@@ -14,3 +14,14 @@ eslint --init
 ? Which file(s), path(s), or glob(s) should be examined? ./src/**.{ts,tsx}
 ? What format do you want your config file to be in? JavaScript
 ```
+
+
+## result
+```
+config.extends.push is not a function
+TypeError: config.extends.push is not a function
+    at processAnswers (/MY_PROJ/node_modules/eslint/lib/init/config-initializer.js:331:24)
+    at /MY_PROJ/node_modules/eslint/lib/init/config-initializer.js:615:28
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+```
